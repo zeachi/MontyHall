@@ -1,0 +1,12 @@
+Package: MontyHall
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Chigozie", "Nzeadighibe", email =  "cnzeadig@asu.edu", role = c("aut", "cre"))
+Description: This package generates a new Monty Hall game with 3 doors
+Depends:
+    dplyr
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
